@@ -1,0 +1,13 @@
+1234567890 10 digitos
+
+positivos y negativos
+
+coma decimal (,)
+Cuatro operaciones basicas (+, -, x, ÷)
+
+
+Operacion entre dos numeros
+cuando ponga el tipo de operacion, el primer numero desaparecera 
+para dar lugar al segundo y presionar "="  para la respuesta
+
+Ponerlo en un repositorio (Github)
