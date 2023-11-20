@@ -384,6 +384,7 @@ main {
 .box:last-child {
   width: 325px;
   height: 40px;
+  background-color: aqua;
 }
 
 .box:nth-child(13) {
