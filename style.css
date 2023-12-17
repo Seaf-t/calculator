@@ -359,20 +359,21 @@ html {
   box-sizing: inherit;
 }
 
-main {
+
+.main-container {
   width: 400px;
-  height: 540px;
-  margin-left: 1em;
-  margin-top: 1em;
+  height: 560px;
+  padding-top: 15px;
+  margin: auto;
   background-color: rgb(68, 64, 64);
-  border-radius: 15px;
+  border-radius: 7px;
 }
 
 .screen {
-  border-radius: 20px;
-  width: 375px;
+  border-radius: 30px;
+  width: 380px;
   height: 150px;
-  margin-left: 10px;
+  margin-left: 10px;  
   background-color: rgb(198, 235, 191);
 }
 
@@ -397,6 +398,7 @@ main {
   border-radius: 10px;
   background-color: rgb(255, 255, 255);
   font-weight: bold;
+  text-align: center;
 }
 
 .box:last-child {
