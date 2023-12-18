@@ -369,12 +369,37 @@ html {
   border-radius: 7px;
 }
 
+
 .screen {
   border-radius: 30px;
   width: 380px;
   height: 150px;
   margin-left: 10px;  
   background-color: rgb(198, 235, 191);
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+  /*padding-top: 50px;
+  font-size: 85px;
+  font-family: 'Digital-7';*/
+}
+
+.box-operation{
+  height: 50%;
+  width: 100%;
+}
+
+#operation-minibox{
+  font-size: 20px;
+  text-align: right;
+  padding-right: 15px;
+}
+
+#operation-box{
+  font-size: 65px;
+  text-align: center;
+
 }
 
 .teclas-wrapper {
