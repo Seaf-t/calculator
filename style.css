@@ -390,16 +390,17 @@ html {
   width: 100%;
 }
 
-#operation-minibox{
+#operationMinibox{
   font-size: 20px;
   text-align: right;
   padding-right: 15px;
 }
 
-#operation-box{
-  font-size: 65px;
-  text-align: center;
-
+#operationBox{
+  font-size: 80px;
+  text-align: right;
+  font-family: "digital-7";
+  padding-right: 15px;
 }
 
 .teclas-wrapper {
